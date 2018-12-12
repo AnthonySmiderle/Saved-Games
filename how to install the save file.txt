@@ -1,0 +1,2 @@
+documents->curse->instances->modpackname->saves
+insert the folder there, then run the game. should work.
